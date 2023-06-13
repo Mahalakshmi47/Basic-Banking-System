@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, sans-serif;
+    background: url("vac1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  table th,td
+  {
+   padding: 15px;
+  }
+  h2{
+    color:black;
+    text-shadow: 1px 1px rgb(255, 255, 255);
+  }
+  th
+  {
+    font-size:6mm;
+    background-color:pink;
+    text-shadow: 1px 1px rgb(255, 255, 255);
+    color:navy;
+  }
+  td{
+    padding:20px;
+    color: yellow;
+    font-weight: 600;
+    text-shadow:1px 1px rgb(8, 78, 158);
+    background-color: grey;
+    
+  }
+  table
+  {
+    padding: 2em;
+    color: whitesmoke;
+    
+
+  }
+  td a{
+    color: white;
+    text-decoration: none;
+    font-size: 5mm;
+    border-radius: 30px;
+    box-shadow: 1px 1px white;
+    padding: 16px;
+    background-color: rgb(98, 219, 17);
+  }
+  td a:hover
+  {
+    background-color:crimson;
+    color: white;
+  }
